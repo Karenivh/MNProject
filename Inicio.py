@@ -33,7 +33,7 @@ st.markdown(
    
    Hecho por:
     
-    Flores Goméz Lura Carelly
+    Flores Goméz Laura Carelly
     
     Villafuerte Hernández Karen Itzel
     
